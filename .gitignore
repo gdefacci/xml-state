@@ -1,0 +1,14 @@
+node_modules
+target
+*.class
+*.zip
+*.7z
+*.jar
+*.scala_
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings
+.tscache
+.vscode
